@@ -3,16 +3,13 @@
 .formatVersion = 3;
 customParameters = (
 {
-name = note;
-value = "2021-2-15: Created with FontForge (http://fontforge.org)";
+name = fsType;
+value = (
+);
 },
 {
-name = versionString;
-value = "Version 1.000";
-},
-{
-name = postscriptIsFixedPitch;
-value = 0;
+name = vendorID;
+value = MNIK;
 }
 );
 date = "2021-02-15 10:32:12 +0000";
@@ -172,28 +169,40 @@ fontMaster = (
 {
 customParameters = (
 {
-name = "UFO Filename";
-value = CCRustic.ufo;
+name = "Use Typo Metrics";
+value = 1;
 },
 {
 name = hheaAscender;
-value = 754;
+value = 900;
 },
 {
 name = hheaDescender;
-value = -195;
+value = -300;
 },
 {
 name = hheaLineGap;
 value = 0;
 },
 {
-name = underlineThickness;
-value = 50;
+name = typoAscender;
+value = 900;
 },
 {
-name = underlinePosition;
-value = -100;
+name = typoDescender;
+value = -300;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 900;
+},
+{
+name = winDescent;
+value = 300;
 }
 );
 guides = (
@@ -223,40 +232,10 @@ name = Regular;
 );
 instances = (
 {
-customParameters = (
-{
-name = postscriptWeightName;
-value = Regular;
-}
-);
 instanceInterpolations = {
 m001 = 1;
 };
 name = Regular;
-properties = (
-{
-key = postscriptFontName;
-value = CCRustic;
-},
-{
-key = postscriptFullNames;
-values = (
-{
-language = dflt;
-value = CCRustic;
-}
-);
-},
-{
-key = styleMapFamilyNames;
-values = (
-{
-language = dflt;
-value = CCRustic;
-}
-);
-}
-);
 }
 );
 metrics = (
@@ -286,22 +265,54 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright (c) 2021, Damith Welikala";
+value = "Copyright 2021 The CCRustic Project Authors (https://github.com/mooniak/ccrustic-font)";
 }
 );
 },
 {
-key = versionString;
-value = "Version 1.000";
+key = designers;
+values = (
+{
+language = dflt;
+value = "Damith Welikala";
+}
+);
+},
+{
+key = manufacturers;
+values = (
+{
+language = dflt;
+value = mooniak;
+}
+);
+},
+{
+key = licenses;
+values = (
+{
+language = dflt;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org";
+}
+);
+},
+{
+key = designerURL;
+value = "http://www.mooniak.com/";
+},
+{
+key = manufacturerURL;
+value = "https://mooniak.com/";
+},
+{
+key = licenseURL;
+value = "https://openfontlicense.org";
 }
 );
 settings = {
 disablesNiceNames = 1;
 };
 unitsPerEm = 1000;
-userData = {
-UFOFormat = 3;
-};
 versionMajor = 1;
 versionMinor = 0;
 }
