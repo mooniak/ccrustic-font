@@ -1,0 +1,6 @@
+# CC Rustic deviations from the FM Abhaya layout (encodings/fm-abhaya.tsv in mooniak-font-tools).
+# Each was checked by rendering the glyph next to its FM neighbours (2026-11-18). Same columns as the table.
+key	unicode	text	role	name	context	note
+`	U+0D9F	ඟ	alt	nnga-sinh.alt1		CC Rustic draws a full ඟ here (in FM it is the nasal prefix of `. `o `v); a second ඟ besides Õ. Visual
+µ	U+0DAB U+0DD2	ණි				CC Rustic draws ණි here (FM's ණි slot ‚ 0x82 is an empty glyph in this font); Pandukabhaya has µ = roman i. Visual, medium confidence: designer to confirm
+©	U+E000		latin	ornament		CC Rustic: a decorative line ornament on ©. Kept typable on PUA U+E000; designer to decide

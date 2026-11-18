@@ -1,0 +1,19 @@
+{
+glyphname = "ee-sinh";
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = "e-sinh";
+},
+{
+pos = (357,0);
+ref = "virama-sinh";
+}
+);
+width = 357;
+}
+);
+unicode = 3474;
+}

@@ -1,0 +1,18 @@
+{
+glyphname = "tVa-sinh";
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = "t-sinh.touch";
+},
+{
+pos = (349,0);
+ref = "va-sinh";
+}
+);
+width = 696;
+}
+);
+}

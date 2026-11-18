@@ -1,0 +1,21 @@
+{
+category = Mark;
+glyphname = "osign-sinh";
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = "esign-sinh";
+},
+{
+pos = (318,0);
+ref = "aasign-sinh";
+}
+);
+width = 514;
+}
+);
+subCategory = Spacing;
+unicode = 3548;
+}

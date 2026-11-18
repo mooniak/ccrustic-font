@@ -1,0 +1,19 @@
+{
+glyphname = "ai-sinh";
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = "esign-sinh";
+},
+{
+pos = (318,0);
+ref = "e-sinh";
+}
+);
+width = 675;
+}
+);
+unicode = 3475;
+}

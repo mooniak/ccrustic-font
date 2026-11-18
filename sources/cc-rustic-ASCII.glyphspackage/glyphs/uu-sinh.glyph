@@ -1,0 +1,19 @@
+{
+glyphname = "uu-sinh";
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = "u-sinh";
+},
+{
+pos = (336,0);
+ref = "vocaliclsign-sinh";
+}
+);
+width = 536;
+}
+);
+unicode = 3468;
+}

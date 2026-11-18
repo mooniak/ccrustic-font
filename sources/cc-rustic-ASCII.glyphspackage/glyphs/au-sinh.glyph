@@ -1,0 +1,19 @@
+{
+glyphname = "au-sinh";
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = "o-sinh";
+},
+{
+pos = (331,0);
+ref = "vocaliclsign-sinh";
+}
+);
+width = 531;
+}
+);
+unicode = 3478;
+}

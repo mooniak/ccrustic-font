@@ -1,0 +1,21 @@
+{
+category = Mark;
+glyphname = "vocalicrrsign-sinh";
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = "vocalicrsign-sinh";
+},
+{
+pos = (196,0);
+ref = "vocalicrsign-sinh";
+}
+);
+width = 392;
+}
+);
+subCategory = Spacing;
+unicode = 3570;
+}
