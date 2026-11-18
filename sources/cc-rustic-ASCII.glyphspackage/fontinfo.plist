@@ -1,0 +1,182 @@
+{
+.appVersion = "3532";
+.formatVersion = 3;
+customParameters = (
+{
+name = note;
+value = "2021-2-15: Created with FontForge (http://fontforge.org)";
+},
+{
+name = versionString;
+value = "Version 1.000";
+},
+{
+name = postscriptIsFixedPitch;
+value = 0;
+}
+);
+date = "2021-02-15 10:32:12 +0000";
+familyName = CCRustic;
+featurePrefixes = (
+{
+code = "#Mark attachment classes (defined in GDEF, used in lookupflags)
+
+@GDEF_Simple = [\\w \\h \\u \\b \\K \\c \\j \\l \\semicolon \\k \\m \\comma \\y \\n \\d \\N \\o \\slash \\a \\f \\I \\O 
+	\\U \\i \\r \\e \\x \\B \\less \\E \\colon \\W \\period \\v \\G \\Thorn \\uacute \\ugrave \\otilde 
+	\\Udieresis \\aacute \\agrave \\germandbls \\acute \\Otilde \\s \\idieresis \\ntilde 
+	\\oacute \\questiondown \\egrave \\ecircumflex \\edieresis \\acircumflex \\adieresis 
+	\\atilde \\Eacute \\Ntilde \\Odieresis \\iacute \\igrave \\icircumflex \\g \\p 
+	\\threequarters \\oslash \\H \\Y \\section \\Egrave \\ae \\S \\q \\percent \\mu \\ydieresis 
+	\\equal \\t \\exclam \\grave \\T \\asterisk \\ccedilla \\eacute \\space \\yen \\Ecircumflex 
+	\\udieresis \\odieresis \\Ccedilla \\L \\greater \\question \\at \\A \\D \\M \\P \\Q \\R \\V \\X 
+	\\quotesingle \\Z \\z \\bracketleft \\backslash \\bar \\asciitilde \\Agrave \\dieresis 
+	\\divide \\Edieresis \\Iacute \\ograve \\ocircumflex \\eth \\Ocircumflex \\Aacute 
+	\\multiply \\braceleft \\Oacute \\Ograve \\Icircumflex \\ucircumflex \\Aring 
+	\\Adieresis \\Eth \\parenleft \\parenright \\plus \\hyphen \\one \\numbersign \\dollar 
+	\\quotedbl \\ampersand \\asciicircum \\two \\three \\zero \\four \\five \\uni0082 \\six 
+	\\nine \\seven \\eight \\copyright \\F ];
+
+table GDEF {
+  GlyphClassDef @GDEF_Simple, , , ;
+
+} GDEF;";
+name = Prefix;
+}
+);
+fontMaster = (
+{
+customParameters = (
+{
+name = "UFO Filename";
+value = CCRustic.ufo;
+},
+{
+name = hheaAscender;
+value = 754;
+},
+{
+name = hheaDescender;
+value = -195;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = underlineThickness;
+value = 50;
+},
+{
+name = underlinePosition;
+value = -100;
+}
+);
+guides = (
+{
+pos = (500,565.166);
+}
+);
+id = m001;
+metricValues = (
+{
+pos = 800;
+},
+{
+},
+{
+},
+{
+},
+{
+pos = -200;
+},
+{
+}
+);
+name = Regular;
+}
+);
+instances = (
+{
+customParameters = (
+{
+name = postscriptWeightName;
+value = Regular;
+}
+);
+instanceInterpolations = {
+m001 = 1;
+};
+name = Regular;
+properties = (
+{
+key = postscriptFontName;
+value = CCRustic;
+},
+{
+key = postscriptFullNames;
+values = (
+{
+language = dflt;
+value = CCRustic;
+}
+);
+},
+{
+key = styleMapFamilyNames;
+values = (
+{
+language = dflt;
+value = CCRustic;
+}
+);
+}
+);
+}
+);
+metrics = (
+{
+type = ascender;
+},
+{
+type = "cap height";
+},
+{
+type = "x-height";
+},
+{
+type = baseline;
+},
+{
+type = descender;
+},
+{
+type = "italic angle";
+}
+);
+note = "2021-2-15: Created with FontForge (http://fontforge.org)";
+properties = (
+{
+key = copyrights;
+values = (
+{
+language = dflt;
+value = "Copyright (c) 2021, Damith Welikala";
+}
+);
+},
+{
+key = versionString;
+value = "Version 1.000";
+}
+);
+settings = {
+disablesNiceNames = 1;
+};
+unitsPerEm = 1000;
+userData = {
+UFOFormat = 3;
+};
+versionMajor = 1;
+versionMinor = 0;
+}
