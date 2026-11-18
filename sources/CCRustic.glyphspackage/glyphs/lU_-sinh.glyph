@@ -2,6 +2,28 @@
 glyphname = "lU-sinh";
 layers = (
 {
+anchors = (
+{
+name = iisign;
+pos = (350,0);
+},
+{
+name = isign;
+pos = (350,0);
+},
+{
+name = usign;
+pos = (350,0);
+},
+{
+name = uusign;
+pos = (350,0);
+},
+{
+name = virama;
+pos = (350,0);
+}
+);
 layerId = m001;
 shapes = (
 {

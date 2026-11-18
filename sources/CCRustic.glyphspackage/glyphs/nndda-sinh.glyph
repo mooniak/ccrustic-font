@@ -2,6 +2,28 @@
 glyphname = "nndda-sinh";
 layers = (
 {
+anchors = (
+{
+name = iisign;
+pos = (436,0);
+},
+{
+name = isign;
+pos = (436,0);
+},
+{
+name = usign;
+pos = (436,0);
+},
+{
+name = uusign;
+pos = (436,0);
+},
+{
+name = virama;
+pos = (436,0);
+}
+);
 layerId = m001;
 shapes = (
 {

@@ -2,6 +2,28 @@
 glyphname = "dha-sinh";
 layers = (
 {
+anchors = (
+{
+name = iisign;
+pos = (386,0);
+},
+{
+name = isign;
+pos = (386,0);
+},
+{
+name = usign;
+pos = (386,0);
+},
+{
+name = uusign;
+pos = (386,0);
+},
+{
+name = virama;
+pos = (386,0);
+}
+);
 layerId = m001;
 shapes = (
 {

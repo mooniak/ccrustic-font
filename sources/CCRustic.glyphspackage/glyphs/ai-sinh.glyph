@@ -2,6 +2,28 @@
 glyphname = "ai-sinh";
 layers = (
 {
+anchors = (
+{
+name = iisign;
+pos = (675,0);
+},
+{
+name = isign;
+pos = (675,0);
+},
+{
+name = usign;
+pos = (675,0);
+},
+{
+name = uusign;
+pos = (675,0);
+},
+{
+name = virama;
+pos = (675,0);
+}
+);
 layerId = m001;
 shapes = (
 {

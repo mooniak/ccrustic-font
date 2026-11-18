@@ -2,6 +2,28 @@
 glyphname = "ssa-sinh";
 layers = (
 {
+anchors = (
+{
+name = iisign;
+pos = (373,0);
+},
+{
+name = isign;
+pos = (373,0);
+},
+{
+name = usign;
+pos = (373,0);
+},
+{
+name = uusign;
+pos = (373,0);
+},
+{
+name = virama;
+pos = (373,0);
+}
+);
 layerId = m001;
 shapes = (
 {

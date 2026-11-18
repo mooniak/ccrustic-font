@@ -2,6 +2,11 @@
 glyphname = "usign-sinh";
 layers = (
 {
+anchors = (
+{
+name = _usign;
+}
+);
 layerId = m001;
 shapes = (
 {

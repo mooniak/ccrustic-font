@@ -2,6 +2,28 @@
 glyphname = "jnya-sinh";
 layers = (
 {
+anchors = (
+{
+name = iisign;
+pos = (566,0);
+},
+{
+name = isign;
+pos = (566,0);
+},
+{
+name = usign;
+pos = (566,0);
+},
+{
+name = uusign;
+pos = (566,0);
+},
+{
+name = virama;
+pos = (566,0);
+}
+);
 layerId = m001;
 shapes = (
 {

@@ -2,6 +2,11 @@
 glyphname = "virama-sinh";
 layers = (
 {
+anchors = (
+{
+name = _virama;
+}
+);
 layerId = m001;
 shapes = (
 {

@@ -3,6 +3,28 @@ category = Mark;
 glyphname = "esign-sinh";
 layers = (
 {
+anchors = (
+{
+name = iisign;
+pos = (318,0);
+},
+{
+name = isign;
+pos = (318,0);
+},
+{
+name = usign;
+pos = (318,0);
+},
+{
+name = uusign;
+pos = (318,0);
+},
+{
+name = virama;
+pos = (318,0);
+}
+);
 layerId = m001;
 shapes = (
 {

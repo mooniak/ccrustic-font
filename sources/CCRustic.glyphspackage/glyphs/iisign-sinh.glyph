@@ -2,6 +2,11 @@
 glyphname = "iisign-sinh";
 layers = (
 {
+anchors = (
+{
+name = _iisign;
+}
+);
 layerId = m001;
 shapes = (
 {

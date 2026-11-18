@@ -162,6 +162,12 @@ tag = psts;
 {
 code = "lookup sin_ss01;
 ";
+labels = (
+{
+language = dflt;
+value = "Below-base da forms";
+}
+);
 tag = ss01;
 }
 );

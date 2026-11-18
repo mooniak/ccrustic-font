@@ -2,6 +2,28 @@
 glyphname = "ndaa._c-sinh";
 layers = (
 {
+anchors = (
+{
+name = iisign;
+pos = (509,0);
+},
+{
+name = isign;
+pos = (509,0);
+},
+{
+name = usign;
+pos = (509,0);
+},
+{
+name = uusign;
+pos = (509,0);
+},
+{
+name = virama;
+pos = (509,0);
+}
+);
 layerId = m001;
 shapes = (
 {
