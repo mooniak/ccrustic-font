@@ -49,6 +49,9 @@ this file current with each release.
 
 ## 4. Designer decisions from the port
 
+Tracked for the designer in [issue #1](https://github.com/mooniak/ccrustic-font/issues/1)
+(this section, section 5 and the two open items in section 3).
+
 - [ ] **`µ` → `nnI-sinh` (ණි).** In FM, ණි lives at `‚` (0x82), which is an empty glyph in this
       font. The drawing on `µ` looks like ණ with an i-loop, so it was read as ණි. Medium confidence
 - [ ] **`` ` `` → `nnga-sinh.alt1`.** In FM `` ` `` is a nasal prefix; here it is a second, full ඟ
