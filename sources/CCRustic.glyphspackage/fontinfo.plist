@@ -180,11 +180,11 @@ value = 1;
 },
 {
 name = hheaAscender;
-value = 900;
+value = 1409;
 },
 {
 name = hheaDescender;
-value = -300;
+value = -470;
 },
 {
 name = hheaLineGap;
@@ -192,11 +192,11 @@ value = 0;
 },
 {
 name = typoAscender;
-value = 900;
+value = 1409;
 },
 {
 name = typoDescender;
-value = -300;
+value = -470;
 },
 {
 name = typoLineGap;
@@ -204,22 +204,22 @@ value = 0;
 },
 {
 name = winAscent;
-value = 900;
+value = 1409;
 },
 {
 name = winDescent;
-value = 300;
+value = 470;
 }
 );
 guides = (
 {
-pos = (500,565.166);
+pos = (783,884);
 }
 );
 id = m001;
 metricValues = (
 {
-pos = 800;
+pos = 1252;
 },
 {
 },
@@ -228,7 +228,7 @@ pos = 800;
 {
 },
 {
-pos = -200;
+pos = -313;
 },
 {
 }
@@ -285,13 +285,8 @@ value = "Damith Welikala";
 );
 },
 {
-key = manufacturers;
-values = (
-{
-language = dflt;
-value = mooniak;
-}
-);
+key = designerURL;
+value = "http://www.mooniak.com/";
 },
 {
 key = licenses;
@@ -303,16 +298,21 @@ value = "This Font Software is licensed under the SIL Open Font License, Version
 );
 },
 {
-key = designerURL;
-value = "http://www.mooniak.com/";
+key = licenseURL;
+value = "https://openfontlicense.org";
+},
+{
+key = manufacturers;
+values = (
+{
+language = dflt;
+value = mooniak;
+}
+);
 },
 {
 key = manufacturerURL;
 value = "https://mooniak.com/";
-},
-{
-key = licenseURL;
-value = "https://openfontlicense.org";
 }
 );
 settings = {

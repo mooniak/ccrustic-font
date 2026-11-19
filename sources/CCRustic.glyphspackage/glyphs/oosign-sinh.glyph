@@ -9,15 +9,15 @@ shapes = (
 ref = "esign-sinh";
 },
 {
-pos = (318,0);
+pos = (498,0);
 ref = "aasign-sinh";
 },
 {
-pos = (514,0);
+pos = (805,0);
 ref = "virama-sinh";
 }
 );
-width = 514;
+width = 805;
 }
 );
 subCategory = Spacing;

@@ -6,23 +6,23 @@ layers = (
 anchors = (
 {
 name = iisign;
-pos = (636,0);
+pos = (995,0);
 },
 {
 name = isign;
-pos = (636,0);
+pos = (995,0);
 },
 {
 name = usign;
-pos = (636,0);
+pos = (995,0);
 },
 {
 name = uusign;
-pos = (636,0);
+pos = (995,0);
 },
 {
 name = virama;
-pos = (636,0);
+pos = (995,0);
 }
 );
 layerId = m001;
@@ -31,11 +31,11 @@ shapes = (
 ref = "esign-sinh";
 },
 {
-pos = (318,0);
+pos = (498,0);
 ref = "esign-sinh";
 }
 );
-width = 636;
+width = 996;
 }
 );
 subCategory = Spacing;

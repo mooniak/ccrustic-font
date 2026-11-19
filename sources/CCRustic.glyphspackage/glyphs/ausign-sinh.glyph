@@ -9,11 +9,11 @@ shapes = (
 ref = "esign-sinh";
 },
 {
-pos = (318,0);
+pos = (498,0);
 ref = "vocaliclsign-sinh";
 }
 );
-width = 518;
+width = 811;
 }
 );
 subCategory = Spacing;

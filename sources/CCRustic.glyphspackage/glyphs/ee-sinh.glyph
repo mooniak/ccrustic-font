@@ -5,23 +5,23 @@ layers = (
 anchors = (
 {
 name = iisign;
-pos = (357,0);
+pos = (559,0);
 },
 {
 name = isign;
-pos = (357,0);
+pos = (559,0);
 },
 {
 name = usign;
-pos = (357,0);
+pos = (559,0);
 },
 {
 name = uusign;
-pos = (357,0);
+pos = (559,0);
 },
 {
 name = virama;
-pos = (357,0);
+pos = (559,0);
 }
 );
 layerId = m001;
@@ -30,11 +30,11 @@ shapes = (
 ref = "e-sinh";
 },
 {
-pos = (357,0);
+pos = (559,0);
 ref = "virama-sinh";
 }
 );
-width = 357;
+width = 559;
 }
 );
 unicode = 3474;
