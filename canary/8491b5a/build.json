@@ -1,0 +1,168 @@
+{
+  "id": "ccrustic",
+  "family": "CCRustic",
+  "scripts": [
+    "Sinh"
+  ],
+  "version": "1.000",
+  "channel": "canary",
+  "commit": "8491b5af8d2dcaa9356c09ff1f4896ab3e1db89e",
+  "commit_short": "8491b5a",
+  "ref_name": "dev",
+  "repository": "mooniak/ccrustic-font",
+  "run_url": "https://github.com/mooniak/ccrustic-font/actions/runs/44320522507",
+  "actor": "pathumego",
+  "generated_at": "2026-11-18T14:07:03Z",
+  "qa": {
+    "profile": "googlefonts",
+    "verdict": "fail",
+    "pass_rate": 70,
+    "counts": {
+      "FAIL": 4,
+      "WARN": 17,
+      "SKIP": 86,
+      "INFO": 20,
+      "PASS": 95
+    },
+    "total_checks": 222
+  },
+  "stage": {
+    "n": 1,
+    "name": "Bootstrap",
+    "cumulative": 9,
+    "total": 110,
+    "gate_met": true,
+    "kernel_checkable_complete": false,
+    "kernel_complete": null,
+    "unverified_kernel_entries": [
+      "classic-conjuncts",
+      "conjunct-i-forms",
+      "ksha",
+      "rakaransaya",
+      "repaya",
+      "yansaya"
+    ]
+  },
+  "files": [
+    {
+      "path": "fonts/otf/CCRusticCANARY-Regular.otf",
+      "format": "otf",
+      "bytes": 57084,
+      "sha256": "6dcb206066d6ae04b6d69ab9bbd58830e0f23683ee2732b87954bdea54955337",
+      "style": "Regular",
+      "kind": "static"
+    },
+    {
+      "path": "fonts/ttf/CCRusticCANARY-Regular.ttf",
+      "format": "ttf",
+      "bytes": 109704,
+      "sha256": "4a489223cac4503f75064fba7f64cb750c6ea09955e4e9a7e32ce87d2558e733",
+      "style": "Regular",
+      "kind": "static"
+    },
+    {
+      "path": "fonts/webfonts/CCRusticCANARY-Regular.woff2",
+      "format": "woff2",
+      "bytes": 45552,
+      "sha256": "56993c475da7a9a3eafb4a10ffa46ff33f427a50558beb332009c76f924cda74",
+      "style": "Regular",
+      "kind": "static"
+    }
+  ],
+  "proof_gate": {
+    "stage": 1,
+    "gated": true,
+    "shown": [
+      "shape-groups",
+      "sinhala-alphabet",
+      "spacing_strings",
+      "test-texts-stages"
+    ],
+    "withheld": [
+      [
+        "classical-texts",
+        9
+      ],
+      [
+        "conjuncts",
+        9
+      ],
+      [
+        "devanagari-pangram",
+        9
+      ],
+      [
+        "display-strings",
+        4
+      ],
+      [
+        "indo-arabic-numerals",
+        4
+      ],
+      [
+        "kern-pairs",
+        3
+      ],
+      [
+        "libreoffice-ui-strings",
+        4
+      ],
+      [
+        "marks",
+        5
+      ],
+      [
+        "mixed-script",
+        9
+      ],
+      [
+        "multiscript",
+        9
+      ],
+      [
+        "numerals",
+        4
+      ],
+      [
+        "ot-features",
+        9
+      ],
+      [
+        "pali-and-sanskrit-words",
+        9
+      ],
+      [
+        "prose",
+        4
+      ],
+      [
+        "punctuation",
+        4
+      ],
+      [
+        "rakar",
+        9
+      ],
+      [
+        "signs-combinations",
+        5
+      ],
+      [
+        "sinhala-pangram",
+        3
+      ],
+      [
+        "structured-texts",
+        4
+      ],
+      [
+        "tamil-pangram",
+        9
+      ]
+    ],
+    "missing_for_next": [
+      "fam-i-term"
+    ],
+    "scripts": []
+  }
+}
