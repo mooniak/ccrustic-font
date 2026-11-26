@@ -1,0 +1,165 @@
+[
+ {
+  "family": "CCRustic",
+  "commit": "222b0327221ebc50fe1855c4ce5cb3b93af0fe06",
+  "commit_short": "222b032",
+  "version": "1.000",
+  "generated_at": "2026-11-26T15:18:39Z",
+  "stage": {
+   "n": 1,
+   "name": "Bootstrap",
+   "cumulative": 9,
+   "total": 110,
+   "gate_met": true,
+   "kernel_checkable_complete": false,
+   "kernel_complete": null,
+   "unverified_kernel_entries": [
+    "classic-conjuncts",
+    "conjunct-i-forms",
+    "ksha",
+    "rakaransaya",
+    "repaya",
+    "yansaya"
+   ]
+  },
+  "qa": {
+   "profile": "mooniak",
+   "verdict": "warn",
+   "pass_rate": 77,
+   "counts": {
+    "WARN": 13,
+    "SKIP": 51,
+    "INFO": 11,
+    "PASS": 82
+   },
+   "total_checks": 157
+  },
+  "run_url": "https://github.com/mooniak/ccrustic-font/actions/runs/45847500474",
+  "ref_name": "dev",
+  "channel": "canary",
+  "repository": "mooniak/ccrustic-font"
+ },
+ {
+  "family": "CCRustic",
+  "commit": "11dd5866fc8b882022dc57d0cac30196237148a1",
+  "commit_short": "11dd586",
+  "version": "1.000",
+  "generated_at": "2026-11-19T06:12:47Z",
+  "stage": {
+   "n": 1,
+   "name": "Bootstrap",
+   "cumulative": 9,
+   "total": 110,
+   "gate_met": true,
+   "kernel_checkable_complete": false,
+   "kernel_complete": null,
+   "unverified_kernel_entries": [
+    "classic-conjuncts",
+    "conjunct-i-forms",
+    "ksha",
+    "rakaransaya",
+    "repaya",
+    "yansaya"
+   ]
+  },
+  "qa": {
+   "profile": "googlefonts",
+   "verdict": "fail",
+   "pass_rate": 70,
+   "counts": {
+    "FAIL": 4,
+    "WARN": 18,
+    "SKIP": 86,
+    "INFO": 19,
+    "PASS": 95
+   },
+   "total_checks": 222
+  },
+  "run_url": "https://github.com/mooniak/ccrustic-font/actions/runs/44470127653",
+  "ref_name": "dev",
+  "channel": "canary",
+  "repository": "mooniak/ccrustic-font"
+ },
+ {
+  "family": "CCRustic",
+  "commit": "96e445f661e1413825d9d9d8a8f950592958e717",
+  "commit_short": "96e445f",
+  "version": "1.000",
+  "generated_at": "2026-11-18T14:29:57Z",
+  "stage": {
+   "n": 1,
+   "name": "Bootstrap",
+   "cumulative": 9,
+   "total": 110,
+   "gate_met": true,
+   "kernel_checkable_complete": false,
+   "kernel_complete": null,
+   "unverified_kernel_entries": [
+    "classic-conjuncts",
+    "conjunct-i-forms",
+    "ksha",
+    "rakaransaya",
+    "repaya",
+    "yansaya"
+   ]
+  },
+  "qa": {
+   "profile": "googlefonts",
+   "verdict": "fail",
+   "pass_rate": 70,
+   "counts": {
+    "FAIL": 4,
+    "WARN": 17,
+    "SKIP": 86,
+    "INFO": 20,
+    "PASS": 95
+   },
+   "total_checks": 222
+  },
+  "run_url": "https://github.com/mooniak/ccrustic-font/actions/runs/44324743606",
+  "ref_name": "dev",
+  "channel": "canary",
+  "repository": "mooniak/ccrustic-font"
+ },
+ {
+  "family": "CCRustic",
+  "commit": "8491b5af8d2dcaa9356c09ff1f4896ab3e1db89e",
+  "commit_short": "8491b5a",
+  "version": "1.000",
+  "generated_at": "2026-11-18T14:07:03Z",
+  "stage": {
+   "n": 1,
+   "name": "Bootstrap",
+   "cumulative": 9,
+   "total": 110,
+   "gate_met": true,
+   "kernel_checkable_complete": false,
+   "kernel_complete": null,
+   "unverified_kernel_entries": [
+    "classic-conjuncts",
+    "conjunct-i-forms",
+    "ksha",
+    "rakaransaya",
+    "repaya",
+    "yansaya"
+   ]
+  },
+  "qa": {
+   "profile": "googlefonts",
+   "verdict": "fail",
+   "pass_rate": 70,
+   "counts": {
+    "FAIL": 4,
+    "WARN": 17,
+    "SKIP": 86,
+    "INFO": 20,
+    "PASS": 95
+   },
+   "total_checks": 222
+  },
+  "run_url": "https://github.com/mooniak/ccrustic-font/actions/runs/44320522507",
+  "ref_name": "dev",
+  "channel": "canary",
+  "repository": "mooniak/ccrustic-font"
+ }
+]
